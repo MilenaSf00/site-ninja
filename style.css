@@ -1,0 +1,14 @@
+ 
+ .img {
+    
+    width: 30%;
+    height: 30%;
+    margin: c;
+    border-radius: 12px;
+    
+}
+
+.container-ninja{
+    display: flex;
+    justify-content: center;
+}
